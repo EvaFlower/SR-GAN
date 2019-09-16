@@ -1,7 +1,7 @@
 # SR-GAN
 
 ### Support Estimation
-Use [ClusterSVDD](https://github.com/nicococo/ClusterSvdd)  
+Pre-estimate support of the real data using [ClusterSVDD](https://github.com/nicococo/ClusterSvdd)  
 ```python
 python csvdd_gauss_ring.py
 ```
